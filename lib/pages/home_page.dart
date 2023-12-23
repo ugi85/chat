@@ -23,7 +23,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         automaticallyImplyLeading: false,
-        title: const Text('Firebase Chat App',
+        title: const Text('Firebase Chat Apps',
             style: TextStyle(color: Colors.white)),
         centerTitle: true,
         backgroundColor: Colors.blueGrey,
